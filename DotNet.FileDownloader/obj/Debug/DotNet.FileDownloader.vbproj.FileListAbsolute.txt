@@ -1,0 +1,16 @@
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\obj\Debug\DotNet.FileDownloader.vbprojResolveAssemblyReference.cache
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\obj\Debug\DotNet.FileDownloader.Resources.resources
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\obj\Debug\DotNet.FileDownloader.vbproj.GenerateResource.Cache
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\obj\Debug\DotNet.FileDownloader.vbproj.CoreCompileInputs.cache
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\bin\Debug\Download.txt
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\bin\Debug\DotNet.FileDownloader.exe.config
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\bin\Debug\DotNet.FileDownloader.exe
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\bin\Debug\DotNet.FileDownloader.pdb
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\bin\Debug\DotNet.FileDownloader.xml
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\obj\Debug\DotNet.FileDownloader.exe
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\obj\Debug\DotNet.FileDownloader.xml
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\obj\Debug\DotNet.FileDownloader.pdb
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\bin\Debug\DotNet.FileDownloader.exe.manifest
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\bin\Debug\DotNet.FileDownloader.application
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\obj\Debug\DotNet.FileDownloader.exe.manifest
+E:\Cloud\OneDrive\APPS\FileDownloader\Code\Git\DotNet.FileDownloader\DotNet.FileDownloader\obj\Debug\DotNet.FileDownloader.application
