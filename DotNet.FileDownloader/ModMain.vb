@@ -11,6 +11,7 @@ Module ModMain
             Dim DownloadFile As String = StartupPath & "\Download.txt"
             Dim DownloadContent As String = IO.File.ReadAllText(DownloadFile)
 
+            Process.Start("Explorer.exe", StartupPath)
             Process.Start("Notepad.exe", DownloadFile)
 
             Dim wc As New WebClient
