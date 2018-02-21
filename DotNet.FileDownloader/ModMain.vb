@@ -8,7 +8,11 @@ Module ModMain
     Sub Main(args As String())
         Try
             Dim StartupPath As String = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location)
-            Dim DownloadContent As String = IO.File.ReadAllText(StartupPath & "\Download.txt")
+            Dim DownloadFile As String = StartupPath & "\Download.txt"
+            Dim DownloadContent As String = IO.File.ReadAllText(DownloadFile)
+
+            Process.Start("Notepad.exe", DownloadFile)
+
             Dim wc As New WebClient
             For Each Line In DownloadContent.Split(vbCrLf).Where(Function(l) l.Contains(vbTab))
                 Dim Columns As List(Of String) = Line.Split(vbTab).ToList
